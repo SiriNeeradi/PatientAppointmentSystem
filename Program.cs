@@ -49,6 +49,7 @@ namespace PatientAppointmentSystem
                 Console.WriteLine("Current DAte: "+ DateTime.Today.ToLongDateString());
 
                 Console.WriteLine();
+                Console.WriteLine();
                 Console.Clear();
 
                 Console.WriteLine("=== Patient Appointment System (HCA Healthcare Demo) ===");
